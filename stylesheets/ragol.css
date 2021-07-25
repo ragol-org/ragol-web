@@ -1,0 +1,5 @@
+html { height: 100%; }
+body { align-items: center; background: #000 url(../images/scanlines.png); border-top: 4px solid #39C; box-sizing: border-box; color: #FFF; display: flex; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; height: 100%; justify-content: center; line-height: 1; margin: 0; }
+a { color: #0FF; }
+#memorial { background: url(../images/racaseal.png) no-repeat; padding: 427px 0 0; text-align: center; text-transform: uppercase; width: 377px; }
+#memorial > * { display: inline-block; font-size: 16px; margin: 0; }
